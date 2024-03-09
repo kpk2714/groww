@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="28" passed="28" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-25T00:00:30 IST" name="Suite" finished-at="2024-01-25T00:04:27 IST" duration-ms="237512">
+    <groups>
+    </groups>
+    <test started-at="2024-01-25T00:00:30 IST" name="Test1" finished-at="2024-01-25T00:04:27 IST" duration-ms="237512">
+      <class name="groww.runner.RunTest">
+        <test-method is-config="true" signature="createReport()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:30 IST" name="createReport" finished-at="2024-01-25T00:00:30 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReport -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:30 IST" name="openbrowser" finished-at="2024-01-25T00:00:34 IST" duration-ms="4001" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcaseone()[pri:1, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:34 IST" name="testcaseone" finished-at="2024-01-25T00:00:40 IST" duration-ms="6549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseone -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:40 IST" name="exit" finished-at="2024-01-25T00:00:41 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:41 IST" name="openbrowser" finished-at="2024-01-25T00:00:44 IST" duration-ms="3272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwo()[pri:2, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:44 IST" name="testcasetwo" finished-at="2024-01-25T00:00:48 IST" duration-ms="3963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwo -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:48 IST" name="exit" finished-at="2024-01-25T00:00:48 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:48 IST" name="openbrowser" finished-at="2024-01-25T00:00:51 IST" duration-ms="3245" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasethree()[pri:3, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:51 IST" name="testcasethree" finished-at="2024-01-25T00:00:56 IST" duration-ms="5044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasethree -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:56 IST" name="exit" finished-at="2024-01-25T00:00:58 IST" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:00:58 IST" name="openbrowser" finished-at="2024-01-25T00:01:01 IST" duration-ms="3341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasefour()[pri:4, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:01 IST" name="testcasefour" finished-at="2024-01-25T00:01:05 IST" duration-ms="3929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasefour -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:05 IST" name="exit" finished-at="2024-01-25T00:01:05 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:05 IST" name="openbrowser" finished-at="2024-01-25T00:01:08 IST" duration-ms="3239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasefive()[pri:5, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:08 IST" name="testcasefive" finished-at="2024-01-25T00:01:12 IST" duration-ms="3827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasefive -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:12 IST" name="exit" finished-at="2024-01-25T00:01:12 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:12 IST" name="openbrowser" finished-at="2024-01-25T00:01:16 IST" duration-ms="3655" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasesix()[pri:6, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:16 IST" name="testcasesix" finished-at="2024-01-25T00:01:20 IST" duration-ms="4244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasesix -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:20 IST" name="exit" finished-at="2024-01-25T00:01:21 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:21 IST" name="openbrowser" finished-at="2024-01-25T00:01:24 IST" duration-ms="3452" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcaseseven()[pri:7, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:24 IST" name="testcaseseven" finished-at="2024-01-25T00:01:27 IST" duration-ms="2990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseseven -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:27 IST" name="exit" finished-at="2024-01-25T00:01:27 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:27 IST" name="openbrowser" finished-at="2024-01-25T00:01:34 IST" duration-ms="6724" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcaseeight()[pri:8, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:34 IST" name="testcaseeight" finished-at="2024-01-25T00:01:40 IST" duration-ms="6058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseeight -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:40 IST" name="exit" finished-at="2024-01-25T00:01:40 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:40 IST" name="openbrowser" finished-at="2024-01-25T00:01:45 IST" duration-ms="4377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasenine()[pri:9, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:45 IST" name="testcasenine" finished-at="2024-01-25T00:01:51 IST" duration-ms="6018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasenine -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:51 IST" name="exit" finished-at="2024-01-25T00:01:51 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:51 IST" name="openbrowser" finished-at="2024-01-25T00:01:56 IST" duration-ms="4687" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcaseten()[pri:10, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:01:56 IST" name="testcaseten" finished-at="2024-01-25T00:02:00 IST" duration-ms="4119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseten -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:00 IST" name="exit" finished-at="2024-01-25T00:02:00 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:00 IST" name="openbrowser" finished-at="2024-01-25T00:02:04 IST" duration-ms="3804" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcaseeleven()[pri:11, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:04 IST" name="testcaseeleven" finished-at="2024-01-25T00:02:08 IST" duration-ms="4158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseeleven -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:08 IST" name="exit" finished-at="2024-01-25T00:02:08 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:08 IST" name="openbrowser" finished-at="2024-01-25T00:02:11 IST" duration-ms="2741" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwelve()[pri:12, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:11 IST" name="testcasetwelve" finished-at="2024-01-25T00:02:16 IST" duration-ms="5368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwelve -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:16 IST" name="exit" finished-at="2024-01-25T00:02:16 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:16 IST" name="openbrowser" finished-at="2024-01-25T00:02:20 IST" duration-ms="4039" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasefifteen()[pri:15, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:20 IST" name="testcasefifteen" finished-at="2024-01-25T00:02:24 IST" duration-ms="3929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasefifteen -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:24 IST" name="exit" finished-at="2024-01-25T00:02:25 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:25 IST" name="openbrowser" finished-at="2024-01-25T00:02:29 IST" duration-ms="3961" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasesixteen()[pri:16, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:29 IST" name="testcasesixteen" finished-at="2024-01-25T00:02:33 IST" duration-ms="4217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasesixteen -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:33 IST" name="exit" finished-at="2024-01-25T00:02:33 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:33 IST" name="openbrowser" finished-at="2024-01-25T00:02:36 IST" duration-ms="2625" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcaseseventeen()[pri:17, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:36 IST" name="testcaseseventeen" finished-at="2024-01-25T00:02:41 IST" duration-ms="5239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseseventeen -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:41 IST" name="exit" finished-at="2024-01-25T00:02:41 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:41 IST" name="openbrowser" finished-at="2024-01-25T00:02:45 IST" duration-ms="4153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcaseeightteen()[pri:18, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:45 IST" name="testcaseeightteen" finished-at="2024-01-25T00:02:50 IST" duration-ms="4359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseeightteen -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:50 IST" name="exit" finished-at="2024-01-25T00:02:50 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:50 IST" name="openbrowser" finished-at="2024-01-25T00:02:54 IST" duration-ms="3784" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasenineteen()[pri:19, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:54 IST" name="testcasenineteen" finished-at="2024-01-25T00:02:58 IST" duration-ms="4578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasenineteen -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:58 IST" name="exit" finished-at="2024-01-25T00:02:58 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:02:58 IST" name="openbrowser" finished-at="2024-01-25T00:03:02 IST" duration-ms="3669" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwenty()[pri:20, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:02 IST" name="testcasetwenty" finished-at="2024-01-25T00:03:07 IST" duration-ms="4684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwenty -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:07 IST" name="exit" finished-at="2024-01-25T00:03:07 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:07 IST" name="openbrowser" finished-at="2024-01-25T00:03:11 IST" duration-ms="3997" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwentyone()[pri:21, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:11 IST" name="testcasetwentyone" finished-at="2024-01-25T00:03:15 IST" duration-ms="4043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwentyone -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:15 IST" name="exit" finished-at="2024-01-25T00:03:15 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:15 IST" name="openbrowser" finished-at="2024-01-25T00:03:19 IST" duration-ms="3510" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwentytwo()[pri:22, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:19 IST" name="testcasetwentytwo" finished-at="2024-01-25T00:03:24 IST" duration-ms="4741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwentytwo -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:24 IST" name="exit" finished-at="2024-01-25T00:03:24 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:24 IST" name="openbrowser" finished-at="2024-01-25T00:03:27 IST" duration-ms="3746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwentythree()[pri:23, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:27 IST" name="testcasetwentythree" finished-at="2024-01-25T00:03:32 IST" duration-ms="4459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwentythree -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:32 IST" name="exit" finished-at="2024-01-25T00:03:32 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:32 IST" name="openbrowser" finished-at="2024-01-25T00:03:36 IST" duration-ms="3816" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwentyfour()[pri:24, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:36 IST" name="testcasetwentyfour" finished-at="2024-01-25T00:03:39 IST" duration-ms="3450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwentyfour -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:39 IST" name="exit" finished-at="2024-01-25T00:03:40 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:40 IST" name="openbrowser" finished-at="2024-01-25T00:03:44 IST" duration-ms="4629" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwentyfive()[pri:25, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:44 IST" name="testcasetwentyfive" finished-at="2024-01-25T00:03:48 IST" duration-ms="3620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwentyfive -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:48 IST" name="exit" finished-at="2024-01-25T00:03:48 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:48 IST" name="openbrowser" finished-at="2024-01-25T00:03:52 IST" duration-ms="4174" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwentysix()[pri:26, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:52 IST" name="testcasetwentysix" finished-at="2024-01-25T00:03:55 IST" duration-ms="3077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwentysix -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:55 IST" name="exit" finished-at="2024-01-25T00:03:56 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:03:56 IST" name="openbrowser" finished-at="2024-01-25T00:04:01 IST" duration-ms="4918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwentyseven()[pri:27, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:01 IST" name="testcasetwentyseven" finished-at="2024-01-25T00:04:04 IST" duration-ms="3282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwentyseven -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:04 IST" name="exit" finished-at="2024-01-25T00:04:04 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:04 IST" name="openbrowser" finished-at="2024-01-25T00:04:08 IST" duration-ms="4091" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwentyeight()[pri:28, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:08 IST" name="testcasetwentyeight" finished-at="2024-01-25T00:04:12 IST" duration-ms="3467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwentyeight -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:12 IST" name="exit" finished-at="2024-01-25T00:04:12 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:12 IST" name="openbrowser" finished-at="2024-01-25T00:04:16 IST" duration-ms="3999" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasetwentynine()[pri:29, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:16 IST" name="testcasetwentynine" finished-at="2024-01-25T00:04:19 IST" duration-ms="3428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasetwentynine -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:19 IST" name="exit" finished-at="2024-01-25T00:04:19 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:19 IST" name="openbrowser" finished-at="2024-01-25T00:04:24 IST" duration-ms="4095" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testcasethirty()[pri:30, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:24 IST" name="testcasethirty" finished-at="2024-01-25T00:04:26 IST" duration-ms="2858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasethirty -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:26 IST" name="exit" finished-at="2024-01-25T00:04:27 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:groww.runner.RunTest@2ed2d9cb]" started-at="2024-01-25T00:04:27 IST" name="generateReport" finished-at="2024-01-25T00:04:27 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- groww.runner.RunTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,248 @@
+2024-01-25 00:00:32,107 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:00:34,210 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:00:35,488 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Search Box Successed .
+2024-01-25 00:00:38,629 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Data Tata Motors Ltd on Search Box Successed .
+2024-01-25 00:00:39,545 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Search Item Successed .
+2024-01-25 00:00:40,966 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Stock Name Tata Motors Verification Successed .
+2024-01-25 00:00:42,317 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:00:44,312 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:00:45,366 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:00:45,849 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Home Loan EMI Successed .
+2024-01-25 00:00:46,529 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Loan Amount 2500000. Successed .
+2024-01-25 00:00:46,858 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Interest Rate 8.5 Successed .
+2024-01-25 00:00:47,197 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Loan Tenure 7 Successed .
+2024-01-25 00:00:48,292 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Monthly EMI is 39,591
+2024-01-25 00:00:48,342 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Principal Amount is 25,00,000
+2024-01-25 00:00:48,390 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Interest is 8,25,662
+2024-01-25 00:00:48,436 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Amount is 33,25,662
+2024-01-25 00:00:49,757 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:00:51,724 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:00:52,730 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:00:53,261 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on SIP on Calculator Page Successed .
+2024-01-25 00:00:53,896 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Monthly Investment 50000 Successed .
+2024-01-25 00:00:54,217 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Expected Return Rate 10 Successed .
+2024-01-25 00:00:54,480 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Time Period 3 Successed .
+2024-01-25 00:00:55,882 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Invested Amount is 18,00,000
+2024-01-25 00:00:56,334 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Expected Return Amount is 3,06,500
+2024-01-25 00:00:56,932 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Amount is 21,06,500
+2024-01-25 00:00:59,385 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:01:01,373 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:01:02,264 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:01:03,214 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Lumpsum on Calculator Page Successed .
+2024-01-25 00:01:03,773 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Total Investment Amount 5000000 Successed .
+2024-01-25 00:01:04,054 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Expected Return Rate 14 Successed .
+2024-01-25 00:01:04,307 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Time Period 18 Successed .
+2024-01-25 00:01:05,408 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Invested Amount is 50,00,000
+2024-01-25 00:01:05,454 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Expected Return Amount is 4,78,75,846
+2024-01-25 00:01:05,498 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Amount is 5,28,75,846
+2024-01-25 00:01:06,840 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:01:08,770 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:01:09,897 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:01:10,370 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on SWP on Calculator Page Successed .
+2024-01-25 00:01:10,886 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Total Investment 700000 Successed .
+2024-01-25 00:01:11,162 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Withdrawl 10000 Per Month Successed .
+2024-01-25 00:01:11,402 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Return Rate 5 Successed .
+2024-01-25 00:01:11,636 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Time Period 5 Successed .
+2024-01-25 00:01:12,700 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Investment is 7,00,000
+2024-01-25 00:01:12,735 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Withdrawl is 6,00,000
+2024-01-25 00:01:12,769 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Final Value is 2,15,260
+2024-01-25 00:01:14,148 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:01:16,489 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:01:17,632 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:01:18,202 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on MF on Calculator Page Successed .
+2024-01-25 00:01:19,205 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Invested Amount 250000 Successed .
+2024-01-25 00:01:19,472 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Return Rate 14 Successed .
+2024-01-25 00:01:19,733 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Time Period 5 Successed .
+2024-01-25 00:01:20,802 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Invested Amount is 2,50,000
+2024-01-25 00:01:20,847 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Estimate Return Rate is 2,31,354
+2024-01-25 00:01:20,893 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Value is 4,81,354
+2024-01-25 00:01:22,134 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:01:24,384 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:01:25,526 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:01:26,046 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on SSY on Calculator Page Successed .
+2024-01-25 00:01:26,575 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Yearly Investment 50000 Successed .
+2024-01-25 00:01:26,863 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Girl's Age 1 Successed .
+2024-01-25 00:01:27,223 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Start Period 2019 Successed .
+2024-01-25 00:01:27,288 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Investment is 7,50,000
+2024-01-25 00:01:27,359 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Interest is 15,59,193
+2024-01-25 00:01:27,411 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Maturity Year is 2042
+2024-01-25 00:01:27,520 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Maturity Value is 23,09,193
+2024-01-25 00:01:29,076 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:01:34,159 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:01:36,365 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:01:37,962 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on PPF on Calculator Page Successed .
+2024-01-25 00:01:38,775 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Yearly Investment 21600 Successed .
+2024-01-25 00:01:39,186 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Time Period 35 Successed .
+2024-01-25 00:01:40,376 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Invested Amount is 7,56,000
+2024-01-25 00:01:40,485 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Interest is 25,12,491
+2024-01-25 00:01:40,545 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Maturity Value is 32,68,491
+2024-01-25 00:01:42,128 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:01:44,997 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:01:46,571 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:01:47,281 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on EPF on Calculator Page Successed .
+2024-01-25 00:01:48,188 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Monthly Salary 30256 Successed .
+2024-01-25 00:01:48,659 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Age 23 Successed .
+2024-01-25 00:01:48,909 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter contribution to EPF 12 Successed .
+2024-01-25 00:01:49,112 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Annual Increase 4 in Salary Successed .
+2024-01-25 00:01:51,183 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Retired Amount is 2,51,03,049
+2024-01-25 00:01:52,522 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:01:55,905 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:01:56,966 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:01:57,683 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on FD on Calculator Page Successed .
+2024-01-25 00:01:58,536 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Total Investment 500000 Successed .
+2024-01-25 00:01:58,785 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Interest Rate 7.1 Successed .
+2024-01-25 00:01:59,030 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Time Period 2 Successed .
+2024-01-25 00:02:00,099 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Invested Amount is 5,00,000
+2024-01-25 00:02:00,143 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Return Amount is 75,571
+2024-01-25 00:02:00,189 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Value is 5,75,571
+2024-01-25 00:02:01,480 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:02:04,050 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:02:04,891 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:02:05,694 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on RD on Calculator Page Successed .
+2024-01-25 00:02:06,604 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Monthly Investment 50000 Successed .
+2024-01-25 00:02:06,862 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Interest Rate 7.1 Successed .
+2024-01-25 00:02:07,101 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Time Period 3 Successed .
+2024-01-25 00:02:08,210 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Invested Amount is 18,00,000
+2024-01-25 00:02:08,286 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Return Amount is 2,10,015
+2024-01-25 00:02:08,363 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Value is 20,10,015
+2024-01-25 00:02:09,690 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:02:11,166 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:02:13,039 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:02:13,919 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on NPS on Calculator Page Successed .
+2024-01-25 00:02:14,740 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Monthly Investment 5200 Successed .
+2024-01-25 00:02:14,996 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Expected Return Rate 12.5 Successed .
+2024-01-25 00:02:15,465 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Age 23 Successed .
+2024-01-25 00:02:16,569 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Invested Amount is 23,08,800
+2024-01-25 00:02:16,609 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Interest Amount is 4,69,08,108
+2024-01-25 00:02:16,651 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Maturity Amount is 4,92,16,908
+2024-01-25 00:02:16,694 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Min. Annuity Investment is 1,96,86,763
+2024-01-25 00:02:18,006 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:02:20,784 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:02:21,438 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:02:22,125 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on EMI on Calculator Page Successed .
+2024-01-25 00:02:23,161 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Loan Amount 600000 Successed .
+2024-01-25 00:02:23,403 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Rate of Interest 12.0 Successed .
+2024-01-25 00:02:23,630 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Loan Tenure 2 Successed .
+2024-01-25 00:02:24,733 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Monthly EMI is 28,244
+2024-01-25 00:02:24,782 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Principal Amount is 6,00,000
+2024-01-25 00:02:24,827 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Interest is 77,858
+2024-01-25 00:02:24,871 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Amount is 6,77,858
+2024-01-25 00:02:26,252 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:02:28,867 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:02:29,874 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:02:30,615 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Car Loan EMI on Calculator Page Successed .
+2024-01-25 00:02:31,565 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Loan Amount 2200000 Successed .
+2024-01-25 00:02:31,824 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Rate of Interest 14.0 Successed .
+2024-01-25 00:02:32,057 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Loan Tenure 7.0 Successed .
+2024-01-25 00:02:33,143 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Monthly EMI is 41,228
+2024-01-25 00:02:33,188 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Principal Amount is 22,00,000
+2024-01-25 00:02:33,232 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Interest is 12,63,154
+2024-01-25 00:02:33,277 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Amount is 34,63,154
+2024-01-25 00:02:34,679 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:02:35,981 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:02:37,795 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:02:38,666 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Simple Interest on Calculator Page Successed .
+2024-01-25 00:02:39,799 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Principle Amount 100000 Successed .
+2024-01-25 00:02:40,043 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Rate of Interest 3.4 Successed .
+2024-01-25 00:02:40,282 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Time Period 1Successed .
+2024-01-25 00:02:41,353 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Principle Amount is 1,00,000
+2024-01-25 00:02:41,397 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Interest is 3,400
+2024-01-25 00:02:41,440 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Amount is 1,03,400
+2024-01-25 00:02:42,736 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:02:45,629 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:02:46,448 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:02:47,274 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Compound Interest on Calculator Page Successed .
+2024-01-25 00:02:48,289 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Principle Amount 100000 Successed .
+2024-01-25 00:02:48,531 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Rate of Interest 3.4 Successed .
+2024-01-25 00:02:48,761 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Time Period 1Successed .
+2024-01-25 00:02:48,951 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choose Compounding Frequency Successed .
+2024-01-25 00:02:50,059 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Principle Amount is 1,00,000
+2024-01-25 00:02:50,115 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Interest is 3,444
+2024-01-25 00:02:50,159 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Amount is 1,03,444
+2024-01-25 00:02:51,445 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:02:53,993 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:02:54,987 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:02:56,321 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on NSC on Calculator Page Successed .
+2024-01-25 00:02:57,188 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Invested Amount 100000 Successed .
+2024-01-25 00:02:57,438 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Rate of Interest 3.4 Successed .
+2024-01-25 00:02:57,553 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choose Compounding Frequency Successed .
+2024-01-25 00:02:58,640 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Principle Amount is 1,00,000
+2024-01-25 00:02:58,685 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Interest is 18,361
+2024-01-25 00:02:58,726 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Amount is 1,18,361
+2024-01-25 00:03:00,030 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:03:02,445 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:03:03,559 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:03:04,445 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Set Up SIP on Calculator Page Successed .
+2024-01-25 00:03:05,377 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Monthly Investment 15000 Successed .
+2024-01-25 00:03:05,628 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Annual Set Up 5 Successed .
+2024-01-25 00:03:05,879 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Return Rate 12.0 Successed .
+2024-01-25 00:03:06,126 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Time Period 10 Successed .
+2024-01-25 00:03:07,217 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Invested Amount is 28,68,736
+2024-01-25 00:03:07,257 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Est. Returns is 21,92,753
+2024-01-25 00:03:07,299 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Value is 50,61,489
+2024-01-25 00:03:08,587 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:03:11,364 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:03:12,221 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:03:13,145 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Gratuity on Calculator Page Successed .
+2024-01-25 00:03:14,030 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Monthly Salary 30256 Successed .
+2024-01-25 00:03:14,496 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Year of Service 37 Successed .
+2024-01-25 00:03:15,556 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Year of Service is 6,45,849
+2024-01-25 00:03:16,867 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:03:19,117 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:03:20,340 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:03:21,329 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on APY on Calculator Page Successed .
+2024-01-25 00:03:22,344 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choosing Joining Age by Slider Successed .
+2024-01-25 00:03:22,857 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choosing Desired Monthly Pension by Slider Successed .
+2024-01-25 00:03:23,926 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Monthly Investment is 318
+2024-01-25 00:03:23,968 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Investment Duration is 37
+2024-01-25 00:03:24,013 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Amount is 1,41,192
+2024-01-25 00:03:25,286 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:03:27,826 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:03:28,963 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-25 00:03:29,857 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on GST on Calculator Page Successed .
+2024-01-25 00:03:30,862 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choosing Total Amount by Slider Successed .
+2024-01-25 00:03:31,339 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choosing Desired Monthly Pension by Slider Successed .
+2024-01-25 00:03:32,393 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total GST Amount is 6,000
+2024-01-25 00:03:32,436 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Post-GST Amount is 56,000
+2024-01-25 00:03:33,724 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:03:36,270 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:03:37,535 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on AMC Mutual Fund Successed .
+2024-01-25 00:03:38,625 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Bajaj Finserv Mutual Fund Successed .
+2024-01-25 00:03:39,309 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on View All Successed .
+2024-01-25 00:03:39,920 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Display total number of Mutual Funds is 7 Mutual Funds
+2024-01-25 00:03:41,180 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:03:44,590 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:03:45,982 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on AMC Mutual Fund Successed .
+2024-01-25 00:03:46,956 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on WhiteOak Capital Mutual Fund Successed .
+2024-01-25 00:03:47,740 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on View All Successed .
+2024-01-25 00:03:48,366 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Display total number of Mutual Funds is 14 Mutual Funds
+2024-01-25 00:03:49,855 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:03:52,604 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:03:53,728 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on AMC Mutual Fund Successed .
+2024-01-25 00:03:54,513 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on ITI Mutual Fund Successed .
+2024-01-25 00:03:55,280 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on View All Successed .
+2024-01-25 00:03:55,884 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Display total number of Mutual Funds is 18 Mutual Funds
+2024-01-25 00:03:57,212 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:04:00,818 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:04:02,042 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on AMC Mutual Fund Successed .
+2024-01-25 00:04:02,933 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Trust Mutual Fund Successed .
+2024-01-25 00:04:03,734 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on View All Successed .
+2024-01-25 00:04:04,313 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Display total number of Mutual Funds is 10 Mutual Funds
+2024-01-25 00:04:05,865 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:04:08,505 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:04:09,358 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on AMC Mutual Fund Successed .
+2024-01-25 00:04:10,343 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on NJ Mutual Fund Successed .
+2024-01-25 00:04:11,521 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on View All Successed .
+2024-01-25 00:04:12,127 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Display total number of Mutual Funds is 5 Mutual Funds
+2024-01-25 00:04:13,493 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:04:16,171 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:04:17,206 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on AMC Mutual Fund Successed .
+2024-01-25 00:04:18,424 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Samco Mutual Fund Successed .
+2024-01-25 00:04:19,138 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on View All Successed .
+2024-01-25 00:04:19,759 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Display total number of Mutual Funds is 4 Mutual Funds
+2024-01-25 00:04:21,098 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-25 00:04:23,861 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-25 00:04:24,753 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on AMC Mutual Fund Successed .
+2024-01-25 00:04:25,592 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Mahindra Manulife Mutual Fund Successed .
+2024-01-25 00:04:26,311 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on View All Successed .
+2024-01-25 00:04:26,918 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Display total number of Mutual Funds is 6 Mutual Funds

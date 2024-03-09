@@ -1,0 +1,9 @@
+2024-01-17 19:59:41,272 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Chrome Browser Launched Successed .
+2024-01-17 19:59:43,435 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Application Open in Chrome Browser Successed .
+2024-01-17 19:59:44,612 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on Calculators Successed .
+2024-01-17 19:59:45,116 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Click on APY on Calculator Page Successed .
+2024-01-17 19:59:46,168 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Enter Joining Age Successed .
+2024-01-17 19:59:46,683 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Choosing Desired Monthly Pension Successed .
+2024-01-17 19:59:47,760 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Monthly Investment is 318
+2024-01-17 19:59:47,807 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Investment Duration is 106
+2024-01-17 19:59:47,856 +0530 [TestNG-tests-1] INFO  (LoggerHandler.java:30) - Total Amount is 1,41,192
